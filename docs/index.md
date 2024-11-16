@@ -60,10 +60,10 @@ Use a reference database to orient fastq or fasta sequences.
 
 # FILE FORMATS
 
-**[`vsearch-fasta(5)`](./formats/vsearch-fasta.1.md)**  
+**[`vsearch-fasta(5)`](./formats/vsearch-fasta.5.md)**  
 Define fasta format, as used by vsearch.
 
-**[`vsearch-fastq(5)`](./formats/vsearch-fastq.1.md)**  
+**[`vsearch-fastq(5)`](./formats/vsearch-fastq.5.md)**  
 Define fastq format, as used by vsearch.
 
 (also SFF, and UDB).
